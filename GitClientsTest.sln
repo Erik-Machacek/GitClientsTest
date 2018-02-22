@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitClientsTest", "GitClientsTest.csproj", "{759C3455-EDFC-4488-8E11-B2F5A25B7D93}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitClientsTest", "GitClientsTest/GitClientsTest.csproj", "{759C3455-EDFC-4488-8E11-B2F5A25B7D93}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
