@@ -10,6 +10,8 @@ namespace GitClientsTest
   {
     static void Main(string[] args)
     {
+      Console.WriteLine("Press any key to close program...");
+      Console.ReadKey();
     }
   }
 }
